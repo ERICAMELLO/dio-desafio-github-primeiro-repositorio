@@ -1,0 +1,2 @@
+Link para downloud do Git: https://desktop.github.com/
+O Git é um terminal estendido para otimizar o uso do Git.
